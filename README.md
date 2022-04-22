@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o Saulo Albuquerque 😃️</h1>
 <lu>
   <li> 🔭 Apaixonado por tecnologia, astronomia e games</li>
-  </lu>
+</lu>
 </div>
 <br> <br>
 
